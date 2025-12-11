@@ -1,6 +1,7 @@
 # Drug Self-Administration in Head-fixed Mice
 
-[![DOI](https://zenodo.org/badge/latestdoi/1234567.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1114583042.svg)](https://doi.org/10.5281/zenodo.17902996)
+
 *This repository aggregates all code, hardware designs, and supporting resources for the Nature Protocols paper: "Drug self-administration in head-fixed mice" by Elizabeth M. Doncheck et al. (2025). For the full protocol, see the [published article](https://doi.org/10.1038/s41596-025-XXXXX).*
 
 ## Overview
@@ -79,7 +80,7 @@ If using these resources, please cite:
 
 Doncheck, E.M. et al. Drug self-administration in head-fixed mice. *Nat. Protoc.* (2025). https://doi.org/10.1038/s41596-025-XXXXX
 
-For this repo: [Zenodo record](https://doi.org/10.5281/zenodo.XXXXXXX).
+For this repo: [Zenodo record](https://doi.org/10.5281/zenodo.17902996).
 
 ---
 
