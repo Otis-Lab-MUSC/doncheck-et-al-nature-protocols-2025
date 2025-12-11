@@ -12,9 +12,9 @@ For detailed step-by-step instructions, refer to the paper's protocol sections o
 
 | Repository | Description | Version | DOI |
 |-----------------|-------------|---------| ----- |
-| [`reacher-firmware`](https://github.com/otis-lab-musc/reacher-firmware) | Low-level drivers for interfacing with custom rigs, solenoids, pumps, and sensors (e.g., Arduino-compatible). | v1.0.1 | |
-| [`reacher`](https://github.com/otis-lab-musc/reacher) | Core server for session management, event logging, and real-time control of self-administration trials. Supports Python-based extensions for custom rewards. | v1.1.1-beta | |
-| [`labrynth`](https://github.com/otis-lab-musc/labrynth) | Pre-built modifiable application. | v1.0.1 | |
+| [`reacher-firmware`](https://github.com/otis-lab-musc/reacher-firmware) | Low-level drivers for interfacing with custom rigs, solenoids, pumps, and sensors (e.g., Arduino-compatible). | v1.0.0 | [17903544](https://doi.org/10.5281/zenodo.17903544) |
+| [`reacher`](https://github.com/otis-lab-musc/reacher) | Core server for session management, event logging, and real-time control of self-administration trials. Supports Python-based extensions for custom rewards. | v1.1.1 | [17903562](https://doi.org/10.5281/zenodo.17903562) |
+| [`labrynth`](https://github.com/otis-lab-musc/labrynth) | Pre-built modifiable application. | v1.0.1 | [17903574](https://doi.org/10.5281/zenodo.17903574) |
 | [`reacher-hardware-models`](https://github.com/otis-lab-musc/`reacher-hardware-models) | 3D models for various hardware prints. | v1.0.0 | [17903383](https://doi.org/10.5281/zenodo.17903383) |
 
 ## Citation
