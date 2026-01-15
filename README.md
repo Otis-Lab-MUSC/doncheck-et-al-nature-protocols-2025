@@ -20,8 +20,8 @@ For detailed step-by-step instructions, refer to the paper's protocol sections o
 ## Citation
 If using these resources, please cite:
 
-Doncheck, E.M. et al. Drug self-administration in head-fixed mice. *Nat. Protoc.* (2025). https://doi.org/10.1038/s41596-025-XXXXX
+Doncheck, E.M. et al. Drug self-administration in head-fixed mice. *Nat. Protoc.* (2026). https://doi.org/PLACEHOLDER
 
 ---
 
-*Last updated: December 2025.*
+*Last updated: January 2026*
