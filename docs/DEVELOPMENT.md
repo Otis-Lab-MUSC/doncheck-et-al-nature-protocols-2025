@@ -1727,6 +1727,12 @@ Closes #123
 
 ---
 
-**Copyright © 2025 Otis Lab. All rights reserved.**
+## Citation
+
+If using these resources, please cite:
+
+> Doncheck, E.M. et al. Drug self-administration in head-fixed mice. *Nat. Protoc.* (2026). https://doi.org/PLACEHOLDER
+
+---
 
 *Last updated: January 2026*

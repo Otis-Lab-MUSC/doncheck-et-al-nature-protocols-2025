@@ -1150,12 +1150,10 @@ START-PROGRAM     # Start experiment
 
 ## Citation
 
-If using this system in research, please cite:
+If using these resources, please cite:
 
-> Doncheck, E.M. et al. Drug self-administration in head-fixed mice. *Nat. Protoc.* (2026). https://doi.org/10.1038/s41596-025-XXXXX
+> Doncheck, E.M. et al. Drug self-administration in head-fixed mice. *Nat. Protoc.* (2026). https://doi.org/PLACEHOLDER
 
 ---
-
-**Copyright © 2025 Otis Lab. All rights reserved.**
 
 *Last updated: January 2026*
